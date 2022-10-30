@@ -7,6 +7,7 @@ class PipelineBase {
 
 class Pipeline: public PipelineBase{
 
+
     
 };
 
